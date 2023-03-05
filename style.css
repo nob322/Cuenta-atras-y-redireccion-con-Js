@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  overflow-x: hidden;
+}
+.sisi{
+  color:yellow;
+}
+.alerta{
+  color:#ff4d4d;
+}
+.white{
+  color:white;
+}
+.pianito{
+  width: 60%;
+  height: auto;
+}
